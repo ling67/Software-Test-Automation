@@ -22,7 +22,7 @@ How to check your Google Chrome version? <br>
 
 https://www.selenium.dev/documentation/webdriver/getting_started/install_drivers/
 
-> I put the Path in /Users/linda/Documents/testproj/chromedriver
+> I put the Path in /Users/linda/Documents/testproj
 
 <img width="500" alt="image" src="https://user-images.githubusercontent.com/93315926/195973000-b4f80e2a-9d6a-49bb-825d-a9a4c6041a95.png">
 
