@@ -1,4 +1,6 @@
-# Software-Test-Automation
+# Test Automation Software for Mac
+
+> My system is MacOS
 
 ## Step 1: install web browser(Chrome, Firefox, Chromium)
 
