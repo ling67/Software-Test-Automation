@@ -66,6 +66,7 @@ $ source ~/.bash_profile
 $ echo $JAVA_HOME
 ```
 
+
 * How to check your java version:
 
 ```
