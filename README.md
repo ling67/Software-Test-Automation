@@ -45,7 +45,28 @@ How to check processor: About this Mac <br>
 How to Install Java on MacOS?
 https://www.geeksforgeeks.org/how-to-install-java-on-macos/
 
-How to check your java version:
+* How to set your java environment:
+
+```java
+$ /usr/libexec/java_home -V
+```
+/usr/local/Cellar/openjdk/18/libexec/openjdk.jdk/Contents/Home
+
+```java
+$ open -a ~/.bash_profile
+```
+Add:
+export JAVA_HOME=/usr/local/Cellar/openjdk/18/libexec/openjdk.jdk/Contents/Home
+
+```java
+$ source ~/.bash_profile
+```
+
+```java
+$ echo $JAVA_HOME
+```
+
+* How to check your java version:
 
 ```
 $ java -version
