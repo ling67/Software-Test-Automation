@@ -1,6 +1,6 @@
 # Software-Test-Automation
 
-## step 1: install web browser(Chrome, Firefox, Chromium)
+## Step 1: install web browser(Chrome, Firefox, Chromium)
 
 My browser: Google Chrome 106.0.5249.119 
 
