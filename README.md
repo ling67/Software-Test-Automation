@@ -43,7 +43,7 @@ How to check processor: About this Mac <br>
 
 <img width="500" alt="image" src="https://user-images.githubusercontent.com/93315926/195973080-4ab48c30-cbe7-4e34-bbb4-dbdadac37873.png">
 
-## Step 4: Install Java (JDK/JRE 1.8)
+## Step 4: Install Java (JDK/JRE 1.8)(this part has some issue!!!)
 How to Install Java on MacOS?
 https://www.geeksforgeeks.org/how-to-install-java-on-macos/
 
