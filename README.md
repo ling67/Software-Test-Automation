@@ -52,11 +52,31 @@ https://www.geeksforgeeks.org/how-to-install-java-on-macos/
 ```java
 $ /usr/libexec/java_home -V
 ```
-/usr/local/Cellar/openjdk/18/libexec/openjdk.jdk/Contents/Home
+Java Path: /usr/local/Cellar/openjdk/18/libexec/openjdk.jdk/Contents/Home
+
+
+### Set Environment variable：
+
+Check you termial is bash or zsh, then choose one.
+
+> 1.zsh
+
+```java
+vi ~/.zshrc
+```
+Add:
+export JAVA_HOME=/usr/local/Cellar/openjdk/18/libexec/openjdk.jdk/Contents/Home
+
+```java
+$ source ~/.zshrc
+```
+
+> 2.bash
 
 ```java
 $ open -a ~/.bash_profile
 ```
+
 Add:
 export JAVA_HOME=/usr/local/Cellar/openjdk/18/libexec/openjdk.jdk/Contents/Home
 
@@ -64,10 +84,11 @@ export JAVA_HOME=/usr/local/Cellar/openjdk/18/libexec/openjdk.jdk/Contents/Home
 $ source ~/.bash_profile
 ```
 
+* Check the variable
+
 ```java
 $ echo $JAVA_HOME
 ```
-
 
 * How to check your java version:
 
